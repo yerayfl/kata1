@@ -1,5 +1,7 @@
 package kata1;
+
 public class Team {
+
     private String Name;
 
     public Team(String Name) {
@@ -9,6 +11,4 @@ public class Team {
     public String getName() {
         return Name;
     }
-
-   
 }
